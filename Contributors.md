@@ -1,5 +1,5 @@
 ﻿# Contributors
- -Veronica Blaha (https://github.com/vblaha)
+- Veronica Blaha (https://github.com/vblaha)
 - [Erica Peterson] (https://github.com/ericalpeterson)
 - [Ramon Griffo Costa]-(https://github.com/IguanaAzul)
 - Jason
