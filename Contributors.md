@@ -1,5 +1,5 @@
 ﻿# Contributors
-- Veronica Blaha (https://github.com/vblaha)
+
 - [Erica Peterson] (https://github.com/ericalpeterson)
 - [Ramon Griffo Costa]-(https://github.com/IguanaAzul)
 - Jason
@@ -68,6 +68,7 @@ Rich Herbert
 - [gormleymark](https://github.com/gormleymark)
 - [IrshadAnsari](https://github.com/irshadjsr21)
 - [jeffhertzler](https://github.com/jeffhertzler)
+- Veronica Blaha(https://github.com/vblaha)
 - [BrendanJJoyce](https://github.com/BrendanJJoyce)
 - [antFaiz5z](https://github.com/antFaiz5z)
 - [MattDurajka](https://github.com/MattDurajka)
